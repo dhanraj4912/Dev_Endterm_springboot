@@ -24,6 +24,17 @@ This project focuses on delivering **core wholesale functionality** with a simpl
 * **Quick Reorder / CSV Upload** (basic demo)
 
 ---
+#### 🖼️ Screenshots
+#ss1
+<img width="1365" height="657" alt="Screenshot 2026-05-05 152220" src="https://github.com/user-attachments/assets/02682dd6-8589-4dd5-b568-1f9b1261b6d9" />
+#ss2
+<img width="1365" height="689" alt="Screenshot 2026-05-05 152211" src="https://github.com/user-attachments/assets/263457d0-57eb-4fa8-8399-3fb6658e6dfe" />
+#ss3
+<img width="1365" height="703" alt="Screenshot 2026-05-05 152201" src="https://github.com/user-attachments/assets/8dbda29c-c881-43b5-965d-f5fe09a38ffb" />
+#ss4
+<img width="1365" height="651" alt="Screenshot 2026-05-05 152153" src="https://github.com/user-attachments/assets/2f9cea04-c311-4226-8518-903ef0f5af4e" />
+#ss5
+<img width="1365" height="661" alt="Screenshot 2026-05-05 152143" src="https://github.com/user-attachments/assets/03201907-c87d-43ba-be67-9804b8b990d9" />
 
 ### 🏢 Admin (Wholesaler)
 
